@@ -56,7 +56,7 @@ O layout foi construído utilizando o sistema de grid do Bootstrap e media queri
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/projeto-spotify.git
+git clone https://github.com/eduardar0/projeto-Spotfy.git
 
 ``` 
 
